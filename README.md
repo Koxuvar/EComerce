@@ -24,6 +24,7 @@ npm i
 ## Usage
      
 npm i to install required dependencies. The backend currently supports only api calls to get and create products, categories, tags etc. and store them in a database.
+Watch a walkthrough video [here](https://www.youtube.com/watch?v=Akk81y1YzSA)
      
 ## Contributing
      
